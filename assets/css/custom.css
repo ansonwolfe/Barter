@@ -1,0 +1,48 @@
+
+#search{
+	margin-top: 30px;
+}
+
+#footer {
+	background-image: url(../images/ios-linen.jpg);
+	margin: 50px auto;
+	padding: 8px;
+	position:relative;
+}
+#action {
+	padding: 10px;
+	background-color: #D1D1D1;
+
+}
+.jumbo_bg {
+	background-image: url(../images/hiking.jpg);
+}
+
+.centered-text {
+    text-align:center
+}  
+
+.space {
+	margin-top: 70px;
+	margin-bottom: 50px;
+}
+
+.clear {
+	clear: both;
+}
+
+.white-font{
+	color: white;
+}
+.form_sm {
+	width: 260px;
+	margin: 5px;
+}
+.unstyled {
+	list-style-type:none;
+}
+.copyright {
+	position:absolute;
+    bottom:10px;
+    right: 50px;
+}
